@@ -1,4 +1,4 @@
-#MatheMarkdown
+## MatheMarkdown
 
 **MatheMarkdown** is an attempt to enumerate the rudiments of mathematics in Markdown. It will involve the use of all the syntax examples I just got from Copilot as well as all the ones used to make cool-looking mathematical symbols. 
 
